@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Brian Manderino",
+	"description": "NPM, Express, MongoDB, and more!",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
